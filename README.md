@@ -12,6 +12,6 @@
 
 ### Contato
 ✉️ jonarc06@gmail.com
-📱 +55 34 992113508
-🔗 linkedin.com/in/jonathan-rodrigues-cardoso
-📷 instagram.com/eu_jona
+<br/>📱 +55 34 992113508
+<br/>🔗 linkedin.com/in/jonathan-rodrigues-cardoso
+<br/>📷 instagram.com/eu_jona
