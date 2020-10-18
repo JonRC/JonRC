@@ -1,16 +1,17 @@
-### Hi there 👋
+# Jonathan Rodrigues Cardoso
+#### 	Sou apaixonado por tecnologia e melhorar a vida das pessoas através da programação.<br/> 
 
-<!--
-**JonRC/JonRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Sobre
+- 🔭 Atualmente trabalho na Algar Tech como analista de MIS
+- 🚀 Buscando oportunidade de trabalho como desenvolvedor Node.JS
+- 📓 Graduando em Física pela Universidade Federal de Uberlândia
+- 💻 Estudando Javascript, Node.JS, Typescript, API Rest, Arquitetura de software e Design Patterns
+- 🤔 Posso te ajudar em como começar a estudar desenvolvimento Web e dicas sobre carreira em geral
+- 💬 TCC: Programação de mods para jogos já famosos a fim do ensino Física
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato
+✉️ jonarc06@gmail.com
+📱 +55 34 992113508
+🔗 linkedin.com/in/jonathan-rodrigues-cardoso
+📷 instagram.com/eu_jona
