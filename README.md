@@ -11,7 +11,7 @@
 - 💬 TCC: Programação de mods para jogos já famosos a fim do ensino Física
 
 ### Contato
-✉️ jonarc06@gmail.com
+>✉️ jonarc06@gmail.com
 <br/>📱 +55 34 992113508
-<br/>🔗 linkedin.com/in/jonathan-rodrigues-cardoso
+<br/> <a href=https://www.linkedin.com/in/jonathan-rodrigues-cardoso>🔗 linkedin.com/in/jonathan-rodrigues-cardoso</a>
 <br/>📷 instagram.com/eu_jona
