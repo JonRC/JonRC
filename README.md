@@ -3,10 +3,9 @@
 
 
 ### Sobre
-- 🔭 Atualmente trabalho na Algar Tech como analista de MIS
-- 🚀 Buscando oportunidade de trabalho como desenvolvedor Node.JS
+- 🔭 Atualmente trabalho na AnotaAI como desenvolvedor backend
 - 📓 Graduando em Física pela Universidade Federal de Uberlândia
-- 💻 Estudando Javascript, Node.JS, Typescript, API Rest, Arquitetura de software e Design Patterns
+- 💻 Estudando Javascript, Node.JS, Typescript, API Rest, Arquitetura de software, Design Patterns e teste unitários.
 - 🤔 Posso te ajudar em como começar a estudar desenvolvimento Web e dicas sobre carreira em geral
 - 💬 TCC: Programação de mods para jogos já famosos a fim do ensino Física
 
