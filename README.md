@@ -1,13 +1,14 @@
 # Jonathan Rodrigues Cardoso
-#### 	Sou apaixonado por tecnologia e melhorar a vida das pessoas através da programação.<br/> 
+#### 	Apaixonado por melhorar a vida das pessoas através da programação.<br/> 
+#### 	Me especializando em back-end NodeJs.<br/> 
 
 
 ### Sobre
 - 🔭 Atualmente trabalho na AWS Code como engenheiro de software backend PL
 - 📓 Graduando em Física pela Universidade Federal de Uberlândia
-- 💻 Estudando back-end web, Typescript, Javascript, Node.JS, API Rest, Arquitetura de software, Design Patterns e testes automatizados.
-- 🤔 Posso te ajudar em como começar a estudar desenvolvimento Web, dúvidas sobre as tecnologias acima e dicas de carreira do geral
-- 💬 TCC: Desenvolvimento de uma solução para evidenciar a Física no dia a dia de estudantes.
+- 💻 Me especializando em back-end NodeJ, Typescript, Javascript e suas tecnologias.
+- 🤔 Posso te ajudar em como começar a estudar desenvolvimento Web, dúvidas sobre as tecnologias acima e dicas de carreira do geral.
+- 💬 TCC: Desenvolvimento de um software para evidenciar a Física no dia a dia dos estudantes.
 
 ### Contato
 >✉️ jonarc06@gmail.com
