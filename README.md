@@ -1,11 +1,11 @@
 # Jonathan Rodrigues Cardoso
 #### 	I'm passionate about building solutions for people through programming.<br/> 
-#### 	Specialized in backend with Typescript, Javascript and NodeJs.<br/> 
+#### 	Specialized in backend with Typescript, Javascript, NodeJs, AWS and Docker<br/> 
 
 
 ### About
-- 🔭 Working as Software Engineer at Linte
-- 📓 Majored in Physics at Federal University of Uberlândia 
+- 🔭 Working as Senior Software Engineer [Deckers Brands](https://www.deckers.com/)
+- 📓 Majored in Physics at the Federal University of Uberlândia
 
 
 ### Contact
