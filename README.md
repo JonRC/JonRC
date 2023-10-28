@@ -1,6 +1,7 @@
 # Jonathan Rodrigues Cardoso
-#### 	I'm passionate about building solutions for people through programming.<br/> 
-#### 	Specialized in backend with Typescript, Javascript, NodeJs, AWS and Docker<br/> 
+  I'm passionate about building solutions for people through programming.  
+  5+ years of professional experience as Software Engineer.  
+  Specialized in backend with **Typescript, Javascript, NodeJs, AWS and Docker.**  
 
 
 ### About
