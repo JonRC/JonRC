@@ -1,12 +1,13 @@
 # Jonathan Rodrigues Cardoso
   I'm passionate about building solutions for people through programming.  
-  5+ years of professional experience as Software Engineer.  
+  7+ years of professional experience as Software Engineer.  
   Specialized in backend with **Typescript, Javascript, NodeJs, AWS and Docker.**  
 
 
 ### About
-- 🔭 Working as Senior Software Engineer [Deckers Brands](https://www.deckers.com/)
+- 🔭 Working as Senior Software Engineer [TrueOps](https://trueops.com/)
 - 📓 Majored in Physics at the Federal University of Uberlândia
+- ✅ AWS Certified Developer Associate
 
 
 ### Contact
